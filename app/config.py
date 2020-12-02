@@ -1,0 +1,1 @@
+TOKEN = '1355498746:AAGMcqGmbOhP0_qs2DVDIsfhTLkI1I1BQQQ' #token telegram bot father
